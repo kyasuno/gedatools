@@ -1,0 +1,11 @@
+Package: gedatools
+Type: Package
+Title: A collection of R functions for genomic data analysis
+Version: 0.0
+Date: 2018-09-20
+Author: Katsuhito Yasuno
+Maintainer: Katsuhito Yasuno <katsuhito.yasuno@yale.edu>
+Description: Miscellaneous functions used in the analysis of genomic data. 
+License: GPL-3
+Imports: Rcpp (>= 0.12.18)
+LinkingTo: Rcpp
